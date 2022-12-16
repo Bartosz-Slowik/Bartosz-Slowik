@@ -1,3 +1,1 @@
-# Gulp.js generator source for chipersoft.com
-
-## Hosted by GitHub Pages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bartosz-Slowik&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
