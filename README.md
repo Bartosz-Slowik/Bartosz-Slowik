@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bartosz, a software engineering student💻 currently studying at  [pk.edu.pl](https://www.pk.edu.pl/index.php?lang=en&template=pk18-tpl) 
+I'm Bartosz, a software engineering student💻 currently studying at Cracow University of Technology [pk.edu.pl](https://www.pk.edu.pl/index.php?lang=en&template=pk18-tpl) 
 
 I have a passion for prototyping, IOT and hackathons.
 
