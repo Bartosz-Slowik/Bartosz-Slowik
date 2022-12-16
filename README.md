@@ -5,10 +5,10 @@ I'm Bartosz, a software engineering student💻 currently studying at Cracow Uni
 I have a passion for prototyping, IOT and hackathons.
 
 I mostly program in:
--Rust 🦀
--Python 🐍
--C++
--Javascript
++Rust 🦀
++Python 🐍
++C++
++Javascript
 
 My current passion project is [COSMO](https://github.com/grupacosmo)
 
